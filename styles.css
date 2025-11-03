@@ -1,0 +1,39 @@
+/* this is a comment*/
+
+
+body {
+    background-color: pink;
+    color: black;
+    font-family:'Open Sans', sans-serif;
+    text-align: center;
+    
+}
+
+.open-sans-font {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+p {
+    font-weight:400; /*this is how "bold" it is*/
+    font-size: 18px; 
+
+}
+
+a {
+    font-weight:400; 
+    font-size: 18px; 
+}
+a:hover{
+    color:grey;
+}
+
+footer{
+    color:grey;
+    margin-top: 10em; /*em is relative to to font size*/
+    font-size: 12px; /*px is absolute unit*/
+    text-align: center;
+}
