@@ -11,6 +11,9 @@ body {
 ul {
     text-align: left;
 }
+ol {
+    text-align: left;
+}
 .open-sans-font {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
